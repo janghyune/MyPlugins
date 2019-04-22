@@ -1,0 +1,8 @@
+name: Delivery
+author: alvin0319
+main: delivery\Delivery
+version: 1.0.0
+api:
+  - 4.0.0
+  - 3.5.2
+description: A PocketMine-MP Plugin | Delivery, made by 앨빈
