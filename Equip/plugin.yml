@@ -1,0 +1,7 @@
+name: Equip
+author: alvin0319
+main: equip\Equip
+version: 1.0.0
+api:
+  - 4.0.0
+  - 3.5.5
