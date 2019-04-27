@@ -1,4 +1,4 @@
-# ChoraServerPlugins
+# MyPlugins
 A Plugins for https://github.com/pmmp/PocketMine-MP
 
 ## 주의사항
